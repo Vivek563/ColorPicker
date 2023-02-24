@@ -106,9 +106,12 @@ p {
   span{
     text-align: center;
     color: #fff;
-    font-weight: 900;
+    font-weight: 800;
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     font-size: 1rem;
+  }
+  .about{
+    margin-top: 14px;
   }
   
   .main_container {
