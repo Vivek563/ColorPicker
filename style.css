@@ -36,6 +36,8 @@ h4 {
 h3 {
   text-align: center;
   color: #fff;
+  align-content: center;
+  align-items: center;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 1.4rem;
   margin-top: 10px;
@@ -96,6 +98,8 @@ p {
   }
   h3 {
     font-size: 0.8rem;
+    align-content: center;
+    align-items: center;
   }
 
   h4{
