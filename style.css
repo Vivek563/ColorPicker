@@ -48,7 +48,6 @@ span{
   font-weight: 900;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 1.8rem;
-  margin-top: 10px;
 }
 p {
   text-align: center;
@@ -98,14 +97,20 @@ p {
   }
   h3 {
     font-size: 0.8rem;
-    align-content: center;
-    align-items: center;
   }
 
   h4{
     font-size: 16px;
   }
 
+  span{
+    text-align: center;
+    color: #fff;
+    font-weight: 900;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+  }
+  
   .main_container {
     grid-template-columns: repeat(2, 1fr);
     gap: 20px;
