@@ -4,7 +4,9 @@ This is a project for creating a colorpicker tool.
 ## Features
 * Select a color from a color wheel or enter a hex code
 * Adjust the hue, saturation, and brightness of the selected color
+
 <br>
+
 ## Technologies Used
 * HTML/CSS for the user interface
 * JavaScript for the colorpicker functionality
