@@ -7,6 +7,10 @@ This is a project for creating a colorpicker tool.
 
 <br>
 
+# Live [Link](https://osmcolor.netlify.app/)
+
+
+
 ## Technologies Used
 * HTML/CSS for the user interface
 * JavaScript for the colorpicker functionality
@@ -18,3 +22,11 @@ To use the colorpicker, simply move the cursor over the color card to select a c
 * Add the ability to save and recall color selections
 * Implement different color schemes, such as complementary, analogous, and triadic
 * Allow for selecting colors from an image or palette
+
+<br>
+<br>
+<br>
+
+# Screenshort
+
+![ScreenShort](./pic/ss.jpg)

@@ -79,6 +79,7 @@ p {
 .btn:hover {
   transform: scale(1.1);
 }
+
 .container .text {
   text-align: center;
   width: 50%;
