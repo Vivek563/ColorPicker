@@ -1,4 +1,4 @@
-# Colorpicker Project
+# Color Picker Project
 This is a project for creating a colorpicker tool.
 
 ## Features
@@ -24,9 +24,7 @@ To use the colorpicker, simply move the cursor over the color card to select a c
 * Allow for selecting colors from an image or palette
 
 <br>
-<br>
-<br>
 
 # Screenshort
 
-![ScreenShort](./pic/ss.jpg)
+![ScreenShort](https://firebasestorage.googleapis.com/v0/b/facedetection-d4d02.appspot.com/o/screencapture-osmcolor-netlify-app-2023-10-14-12_13_55.png?alt=media&token=33c54794-573b-4654-b600-df18bff62550&_gl=1*1chtidc*_ga*MzY4NzQ4NTE4LjE2NzkyODU2NDI.*_ga_CW55HF8NVT*MTY5NzI2NTQwOS43LjEuMTY5NzI2NTg4Mi4yNS4wLjA.)
